@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "node backend/index.js",
-    "start": "node backend/index.js"
+    "test": "node index.js",
+    "start": "node index.js"
   },
   "dependencies": {
     "cors": "^2.8.5",
